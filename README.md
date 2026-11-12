@@ -3,3 +3,4 @@ Students have the option of acquiring colonies to absorb overproduction, forcing
 Students have to try to balance employment, competitiveness, and production levels, each of them leading to different fail-states.
 The only win condition is to postpone inter-imperial war until after 1914.
 Fail conditions exist, such as class warfare, competitive disadvantage, and imperial wars triggered too early.
+I do not know how to code. Shouts out ChatGPT.
